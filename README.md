@@ -1,2 +1,2 @@
 # ejercicio_tripleten
-This repository was created in order to practice my skills and to get knowldeges about how to use github.
+This repository was created with the aim of showing two graphs, a histogram showing the data set of car sales advertisments and a scatter graph of it.
